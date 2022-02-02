@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Truffle-React-WebClient/static/css/main.60323212.css",
+    "main.js": "/Truffle-React-WebClient/static/js/main.eb797c7e.js",
+    "index.html": "/Truffle-React-WebClient/index.html",
+    "main.60323212.css.map": "/Truffle-React-WebClient/static/css/main.60323212.css.map",
+    "main.eb797c7e.js.map": "/Truffle-React-WebClient/static/js/main.eb797c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60323212.css",
+    "static/js/main.eb797c7e.js"
+  ]
+}
