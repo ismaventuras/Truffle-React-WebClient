@@ -1,6 +1,6 @@
 # Truffle React WebClient
 
-When I discovered that scaffold-eth autogenerates a form for each method of the contract that you have compiled in hardhat, the first thing I thought was that it was black magic, so I decided to replicate the same behavior but using Truffle since I am more used to it.
+When I discovered that scaffold-eth autogenerates a form for each method of the contract that you have compiled in hardhat, the first thing I thought that it was black magic, so I decided to replicate the same behavior but using Truffle since I am more used to it.
 
 ## Usage
 
